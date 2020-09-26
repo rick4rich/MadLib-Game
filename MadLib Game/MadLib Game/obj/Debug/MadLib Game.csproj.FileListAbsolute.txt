@@ -1,0 +1,6 @@
+c:\users\rickrich\documents\visual studio 2015\Projects\MadLib Game\MadLib Game\bin\Debug\MadLib Game.exe.config
+c:\users\rickrich\documents\visual studio 2015\Projects\MadLib Game\MadLib Game\bin\Debug\MadLib Game.exe
+c:\users\rickrich\documents\visual studio 2015\Projects\MadLib Game\MadLib Game\bin\Debug\MadLib Game.pdb
+c:\users\rickrich\documents\visual studio 2015\Projects\MadLib Game\MadLib Game\obj\Debug\MadLib Game.csprojResolveAssemblyReference.cache
+c:\users\rickrich\documents\visual studio 2015\Projects\MadLib Game\MadLib Game\obj\Debug\MadLib Game.exe
+c:\users\rickrich\documents\visual studio 2015\Projects\MadLib Game\MadLib Game\obj\Debug\MadLib Game.pdb
